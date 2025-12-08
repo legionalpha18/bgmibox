@@ -6,6 +6,7 @@
     {
       "name": "Auto BGMi-Loader",
       "version": "1.1",
+      "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_Canvas.apk",
       "enabled": true
     },
