@@ -1,0 +1,25 @@
+{
+  "name": "PubgmLoader",
+  "announcement": "",
+  "stub_version": "1.3",
+  "versions": [
+    {
+      "name": "Plugin name",
+      "version": "1.21",
+      "plugin_link": "link",
+      "enabled": true
+    },
+    {
+      "name": "Plugin name2",
+      "version": "1.21",
+      "plugin_link": "link",
+      "enabled": true
+    },
+    {
+      "name": "Plugin name3",
+      "version": "1.21",
+      "plugin_link": "link",
+      "enabled": "flase"
+    }
+  ]
+}
