@@ -6,19 +6,19 @@
     {
       "name": "Plugin name",
       "version": "1.21",
-      "plugin_link": "link",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_Canvas.apk",
       "enabled": true
     },
     {
       "name": "Plugin name2",
       "version": "1.21",
-      "plugin_link": "link",
+      "plugin_link": "",
       "enabled": true
     },
     {
       "name": "Plugin name3",
       "version": "1.21",
-      "plugin_link": "link",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_Canvas.apk",
       "enabled": "flase"
     }
   ]
