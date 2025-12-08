@@ -13,12 +13,14 @@
     {
       "name": "ImGui BGMi-Loader",
       "version": "1.0",
+        "package_name": "com.pubgm", 
       "plugin_link": "",
       "enabled": true
     },
     {
       "name": "Plugin name3",
       "version": "1.21",
+        "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_Canvas.apk",
       "enabled": "flase"
     }
